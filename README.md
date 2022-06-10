@@ -1,5 +1,9 @@
 # product-and-cart-vue-cli
 
+Shopping Cart
+ 
+##  Using Vue CLI with Options API
+
 ## Project setup
 ```
 npm install
